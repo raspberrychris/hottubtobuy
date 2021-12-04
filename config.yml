@@ -1,7 +1,7 @@
 baseURL: "/"
 title: Hot Tub To Buy
 paginate: 5
-theme: "PaperMod"
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
