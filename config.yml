@@ -1,5 +1,5 @@
 baseURL: "/"
-title: ExampleSite
+title: Hot Tub To Buy
 paginate: 5
 theme: "PaperMod"
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Hot Tub To Buy
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
