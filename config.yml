@@ -65,8 +65,8 @@ outputs:
 
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
-    description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
-    author: Best Kayak To Buy
+    description: "Discover the very best hot tub to buy with our honest reviews at hottubtobuy.com!"
+    author: Hot Tub To Buy
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
@@ -96,9 +96,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Best Hot Tub To Buy"
+        Title: "Hot Tub To Buy"
         Content: >
-            Welcome to Besthottubtobuy.com
+            Welcome to hottubtobuy.com, the home of all things hot tubs!  Check out our reviews of the best hot tubs and browse our buying guides.  We hope you enjoy the site.
 
             Check out our posts below.
 
