@@ -16,7 +16,7 @@ hidemeta = false
 searchHidden = false
 showToc = true
 tags = ["Review"]
-title = "Coleman 13804-BW SaluSpa Hot Tub"
+title = "Coleman 13804-BW SaluSpa Hot Tub - Is This The Most Popular Hot Tub?"
 [cover]
 alt = ""
 caption = ""
