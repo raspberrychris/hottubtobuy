@@ -31,13 +31,13 @@ appendFilePath = false
 +++
 ![Coleman 13804-BW SaluSpa 4 Person Portable Inflatable Outdoor Round Hot Tub Spa with 60 Air Jets, Tub Cover, Pump, and 2 Filt](https://images-na.ssl-images-amazon.com/images/I/51P2JsmtUFS._AC_UL604_SR604,400_.jpg)
 
-In this review we will be taking a look at the [**Coleman 13804-BW SaluSpa Hot Tub**](#)**.**  This hot tub from [**Coleman**](/categories/coleman) is one of the most popular hot tubs out there in terms of customer reviews.  On Amazon.com 71% of customers gave this a 5/5 rating.  It comfortably fits 4 average sized adults, is extremely quiet 
+In this review we will be taking a look at the [**Coleman 13804-BW SaluSpa Hot Tub**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)**.**  This hot tub from [**Coleman**](/categories/coleman) is one of the most popular hot tubs out there in terms of customer reviews.  On Amazon.com 71% of customers gave this a 5/5 rating.  It comfortably fits 4 average sized adults, is extremely quiet
 
-Customers who have bought the  [**Coleman 13804-BW SaluSpa Hot Tub **](#)say that it is easy to set up (taking around 30 minutes), they would highly recommend it and that it represents good value for money.
+Customers who have bought the [**Coleman 13804-BW SaluSpa Hot Tub**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00) say that it is easy to set up (taking around 30 minutes), they would highly recommend it and that it represents good value for money.
 
-[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](#)
+[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)
 
-## Features of the  [**Coleman 13804-BW SaluSpa Hot Tub**](#)
+## Features of the  [**Coleman 13804-BW SaluSpa Hot Tub**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)
 
 **INFLATABLE HOT TUB**
 
@@ -72,19 +72,19 @@ TriTech 3 ply inflated walls for durability and comfort; Reinforced cover with s
 * Manufacturer warranty (pump): 1-year warranty
 * Manufacturer warranty (liner): 90-day warranty
 
-[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](#)
+[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)
 
-## [**Coleman 13804-BW SaluSpa Hot Tub**](#) **Who is it for?**
+## [**Coleman 13804-BW SaluSpa Hot Tub**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00) **Who is it for?**
 
 If you are looking to buy a hot tub that doesn't break the bank then this inflatable version by Coleman is a fantastic option.  With it being inflatable means that it can be easily transported wherever you go and you can take it on holiday with you or keep it in your favourite spot at home.  It has massaging jets and a cushioned floor which allow you to unwind and relax after a long day!
 
-Assembly is quick, with the hot tub inflating in minutes and the heating system is capable of warming the water quickly to 104 degrees - the perfect temperature for relaxing your muscles.  The  [**Coleman 13804-BW SaluSpa Hot Tub **](#)comes with a digital control panel which allows you to control the hot tub without actually having to get out, which we found to be very convenient.
+Assembly is quick, with the hot tub inflating in minutes and the heating system is capable of warming the water quickly to 104 degrees - the perfect temperature for relaxing your muscles.  The  [**Coleman 13804-BW SaluSpa Hot Tub**](#) comes with a digital control panel which allows you to control the hot tub without actually having to get out, which we found to be very convenient.
 
 ![](https://m.media-amazon.com/images/I/618+u3HkpZS._AC_SX679_.jpg)
 
 The hot tub surrounds are made of 3-ply PVC which is sturdy and durable.  The beams on the sides ensure you can sit on the the sides of the spa.  So this really is a structurally strong hot tub!  The hot tub also has handles on the side which allows you easily move the hot tub to a different location.
 
-[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](#)
+[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)
 
 ## What is included?
 
@@ -100,4 +100,4 @@ This is a very impressive and affordable hot tub that is perfect for anyone who 
 
 [**Coleman**](/categories/coleman) is one of the leading brands in the outdoor space, so it is no surprise that they are making one of the most popular inflatable hot tubs on the market.  Customers really love this product and we think it is fantastic as well.
 
-[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](#)
+[**Click here to check out the Coleman 13804-BW SaluSpa Hot Tub on Amazon.com...**](https://www.amazon.com/gp/product/B01HBKW66M/ref=as_li_tl?ie=UTF8&tag=hottubtobuy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HBKW66M&linkId=e55def82d726851156e641526df7ab00)
