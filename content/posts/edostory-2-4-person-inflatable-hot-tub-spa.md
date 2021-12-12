@@ -16,7 +16,7 @@ hideSummary = false
 hidemeta = false
 searchHidden = false
 showToc = true
-tags = []
+tags = ["Review"]
 title = "Edostory 2-4 Person Inflatable Hot Tub Spa"
 [cover]
 alt = ""
