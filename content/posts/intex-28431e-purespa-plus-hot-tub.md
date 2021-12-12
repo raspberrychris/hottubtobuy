@@ -30,3 +30,4 @@ URL = ""
 appendFilePath = false
 
 +++
+![Intex 28431E PureSpa Plus 85" x 28" 6 Person Outdoor Portable Inflatable Round Hot Tub Spa with 170 Bubble Jets, Cover, LED L](https://images-na.ssl-images-amazon.com/images/I/717zTqcVgxL._AC_UL604_SR604,400_.jpg)
