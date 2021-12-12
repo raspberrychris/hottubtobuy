@@ -42,18 +42,24 @@ languages:
                 - name: Blog
                   url: "/posts/"
                   weight: 20
+                - name: Brands
+                  url: "/categories/"
+                  weight: 30
+                - name: Reviews
+                  url: "/tags/review"
+                  weight: 40
                 - name: Affiliate Disclosure
                   url: "/affiliate-disclosure/"
-                  weight: 70
+                  weight: 60
                 - name: Privacy Policy
                   url: "/privacy-policy/"
-                  weight: 60
+                  weight: 70
                 - name: Search
                   url: search
                   weight: 80
                 - name: Buying Guides
                   url: "/tags/buying-guides"
-                  weight: 30
+                  weight: 50
 
 
 
