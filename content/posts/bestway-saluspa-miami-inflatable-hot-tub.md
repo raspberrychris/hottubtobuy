@@ -34,7 +34,7 @@ appendFilePath = false
 
 In this review we will take a look at the [**Bestway SaluSpa Miami Inflatable Hot Tub**](#)**.** This spa will fit between 2-4 people and has a water capacity of 177 gallons.  The inside diameter is 52 inches and the height is 26 inches.  One of the great things about the [**Bestway SaluSpa Miami Inflatable Hot Tub **](#)is the fact that it comes with 120 bubble jets which are fantastic at surrounding you with a calming massage feeling.  The bubbles on this spa are powerful and 
 
-Customers really rate this hot tub and of 3000 customers who bought this product 69% of them said that it was a 5/5 star product.  We can see why so many love this hot tub as it is easy to set up 
+Customers really rate this hot tub and of 3000 customers who bought this product 69% of them said that it was a 5/5 star product.  We can see why so many love this hot tub as it is easy to set up, represents very good value for money and comes with everything you need to get started.
 
 ## Bestway SaluSpa Miami Inflatable Hot Tub Features
 
