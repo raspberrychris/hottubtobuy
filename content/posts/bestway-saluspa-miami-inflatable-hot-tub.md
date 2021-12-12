@@ -30,3 +30,4 @@ URL = ""
 appendFilePath = false
 
 +++
+![Bestway SaluSpa Miami Inflatable Hot Tub, 4-Person AirJet Spa](https://images-na.ssl-images-amazon.com/images/I/71QipIhMJNS._AC_UL604_SR604,400_.jpg)
