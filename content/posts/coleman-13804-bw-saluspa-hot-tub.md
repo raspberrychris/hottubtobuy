@@ -30,5 +30,4 @@ URL = ""
 appendFilePath = false
 
 +++
-
-![Coleman 13804-BW SaluSpa 4 Person Portable Inflatable Outdoor Round Hot Tub Spa with 60 Air Jets, Tub Cover, Pump, and 2 Filt](https://images-na.ssl-images-amazon.com/images/I/51P2JsmtUFS._AC_UL604_SR604,400_.jpg =x200px)
+![Coleman 13804-BW SaluSpa 4 Person Portable Inflatable Outdoor Round Hot Tub Spa with 60 Air Jets, Tub Cover, Pump, and 2 Filt](https://images-na.ssl-images-amazon.com/images/I/51P2JsmtUFS._AC_UL604_SR604,400_.jpg)
