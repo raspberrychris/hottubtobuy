@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "Hot Tub To Buy"
 canonicalURL = ""
@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Coleman 13804-BW SaluSpa Hot Tub - Is This The Most Popular Hot Tub?"
 [cover]
-alt = ""
+alt = "Coleman 13804-BW SaluSpa Hot Tub"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-7.webp"
 relative = false
 [editPost]
 Text = ""
