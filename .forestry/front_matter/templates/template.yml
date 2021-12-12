@@ -88,3 +88,5 @@ fields:
   - type: boolean
     name: appendFilePath
     label: appendFilePath
+pages:
+- content/posts/coleman-13804-bw-saluspa-hot-tub.md
