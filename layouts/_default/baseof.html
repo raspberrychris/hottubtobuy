@@ -30,7 +30,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJCW7P"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-{{ partial "consent.html" . }}
+<!--- Only enable cookies for production BAS 2020-07-15 --->
+{{ if hugo.IsProduction }}
+{{ partial "cookie-notice.html" }}
+{{ end }}
 </body>
-
 </html>
